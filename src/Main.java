@@ -9,4 +9,8 @@ public class Main {
     private static void mainMethodShowInfo() {
         System.out.println("new changes");
     }
+
+    private static void mainMethodShowInfoBuy() {
+        System.out.println("new changes bue");
+    }
 }
